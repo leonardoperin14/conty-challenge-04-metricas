@@ -1,5 +1,7 @@
 # Métricas das redes do criador
 
+[![CI](https://github.com/leonardoperin14/conty-challenge-04-metricas/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/leonardoperin14/conty-challenge-04-metricas/actions/workflows/ci.yml)
+
 API local para sincronizar métricas de posts de conexões já autorizadas, com provedor simulado, snapshots idempotentes e retry limitado.
 
 **TypeScript · Node.js 24+ · Hono · SQLite · Vitest**
